@@ -1,0 +1,8 @@
+com\truyenvn\core\persistence\entity\EvaluateEntity.class
+com\truyenvn\core\persistence\entity\AuthorEntity.class
+com\truyenvn\core\persistence\entity\BookEntity.class
+com\truyenvn\core\persistence\entity\CategoryEntity.class
+com\truyenvn\core\persistence\entity\RoleEntity.class
+com\truyenvn\core\persistence\entity\CommentEntity.class
+com\truyenvn\core\persistence\entity\UserEntity.class
+com\truyenvn\core\persistence\entity\ChapterEntity.class

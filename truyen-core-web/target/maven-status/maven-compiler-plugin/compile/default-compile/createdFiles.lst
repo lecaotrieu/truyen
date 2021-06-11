@@ -1,0 +1,6 @@
+com\truyenvn\core\utils\RequestUtil.class
+com\truyenvn\core\utils\FormUtil.class
+com\truyenvn\core\utils\HttpUtil.class
+com\truyenvn\core\utils\SingletonServiceUtil.class
+com\truyenvn\core\common\WebConstant.class
+com\truyenvn\core\command\AbstractCommand.class

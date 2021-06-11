@@ -1,0 +1,8 @@
+com\truyenvn\core\utils\UserBeanUtil.class
+com\truyenvn\core\utils\RoleBeanUtil.class
+com\truyenvn\core\utils\BookBeanUtil.class
+com\truyenvn\core\utils\EvaluateBeanUtil.class
+com\truyenvn\core\utils\ChapterBeanUtil.class
+com\truyenvn\core\utils\AuthorBeanUtil.class
+com\truyenvn\core\utils\CategoryBeanUtil.class
+com\truyenvn\core\utils\CommentBeanUtil.class

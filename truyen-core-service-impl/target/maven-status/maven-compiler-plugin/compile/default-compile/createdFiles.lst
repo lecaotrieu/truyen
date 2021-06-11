@@ -1,0 +1,9 @@
+com\truyenvn\core\service\impl\AuthorServiceImpl.class
+com\truyenvn\core\service\impl\EvaluateServiceImpl.class
+com\truyenvn\core\service\impl\UserServiceImpl.class
+com\truyenvn\core\service\impl\BookServiceImpl.class
+com\truyenvn\core\service\impl\ChapterServiceImpl.class
+com\truyenvn\core\service\impl\RoleServiceImpl.class
+com\truyenvn\core\service\impl\CommentServiceImpl.class
+com\truyenvn\core\service\utils\SingletonDaoUtil.class
+com\truyenvn\core\service\impl\CategoryServiceImpl.class

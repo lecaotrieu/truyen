@@ -1,0 +1,8 @@
+com\truyenvn\core\dao\UserDAO.class
+com\truyenvn\core\dao\RoleDAO.class
+com\truyenvn\core\dao\AuthorDAO.class
+com\truyenvn\core\dao\CommentDAO.class
+com\truyenvn\core\dao\CategoryDAO.class
+com\truyenvn\core\dao\ChapterDAO.class
+com\truyenvn\core\dao\EvaluateDAO.class
+com\truyenvn\core\dao\BookDAO.class

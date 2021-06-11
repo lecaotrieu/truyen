@@ -1,0 +1,8 @@
+com\truyenvn\core\service\UserService.class
+com\truyenvn\core\service\CategoryService.class
+com\truyenvn\core\service\AuthorService.class
+com\truyenvn\core\service\RoleService.class
+com\truyenvn\core\service\ChapterService.class
+com\truyenvn\core\service\BookService.class
+com\truyenvn\core\service\EvaluateService.class
+com\truyenvn\core\service\CommentService.class

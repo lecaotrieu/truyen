@@ -1,0 +1,8 @@
+com\truyenvn\core\daoimpl\ChapterDAOImpl.class
+com\truyenvn\core\daoimpl\BookDAOImpl.class
+com\truyenvn\core\daoimpl\CategoryDAOImpl.class
+com\truyenvn\core\daoimpl\CommentDAOImpl.class
+com\truyenvn\core\daoimpl\UserDAOImpl.class
+com\truyenvn\core\daoimpl\RoleDAOImpl.class
+com\truyenvn\core\daoimpl\EvaluateDAOImpl.class
+com\truyenvn\core\daoimpl\AuthorDAOImpl.class

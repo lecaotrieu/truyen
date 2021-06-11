@@ -1,0 +1,10 @@
+com\truyenvn\core\dto\UserDTO.class
+com\truyenvn\core\dto\AuthorDTO.class
+com\truyenvn\core\dto\ChapterDTO.class
+com\truyenvn\core\dto\CategoryDTO.class
+com\truyenvn\core\dto\CommentDTO.class
+com\truyenvn\core\dto\PropertiesToSearch.class
+com\truyenvn\core\dto\BookDTO.class
+com\truyenvn\core\dto\UserSessionLogin.class
+com\truyenvn\core\dto\EvaluateDTO.class
+com\truyenvn\core\dto\RoleDTO.class

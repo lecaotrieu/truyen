@@ -1,0 +1,3 @@
+com\truyenvn\core\common\utils\SessionUtil.class
+com\truyenvn\core\common\utils\HibernateUtils.class
+com\truyenvn\core\common\constant\CoreConstant.class
